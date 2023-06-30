@@ -90,7 +90,7 @@
 
     
 
-<a href="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submittarget="_blank">
+<a href="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit "target="_blank">
 <img src="https://img.shields.io/badge/Sergio%20Pav%C3%B3n%20%C3%81lvarez-blue?logo=linkedin&logoColor=blue&label=Linkedin&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsergio-pavon-alvarez-297bb282%2F"/>
 
 
