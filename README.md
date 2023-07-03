@@ -36,6 +36,8 @@
 <p align="center">
 
 - **Languages**:
+
+  ![JAVA](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     
 
 
@@ -80,8 +82,9 @@
 <br>
 <br>
 
-Contact
------
+
+## <img src="https://media.giphy.com/media/Q0kd3QPg2ZgJbs6KKx/giphy.gif" width ="25"><b> Contact</b>
+
 
 <br>
 <br>
