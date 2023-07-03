@@ -38,8 +38,10 @@
 
 - **Languages**:
 
-  
-  ![JavaScript](https://img.shields.io/badge/PYTHON%20-%23F7DF1E.svg?style=for-the-badge&logo=PYTHON&logoColor=blue)
+  ![Java](https://img.shields.io/badge/java%20-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/PYTHON%20-%23F7DF1E.svg?style=for-the-badge&logo=PYTHON&logoColor=blue)
+  ![SQL](https://img.shields.io/badge/SQL%20-%23E34F26.svg?style=for-the-badge&logo=SQL&logoColor=black)
+
 
 
 
@@ -64,8 +66,13 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Eclipse](https://img.shields.io/badge/Eclipse-%23F05033.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+    ![Intellij](https://img.shields.io/badge/Intellij-0078d7.svg?style=for-the-badge&logo=Intellij-idea&logoColor=black)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Docker](https://img.shields.io/badge/Docker-0078d7.svg?style=for-the-badge&logo=DOCKER&logoColor=white)
+    ![phpmyadmin](https://img.shields.io/badge/phpmyadmin%20-%23F7DF1E.svg?style=for-the-badge&logo=phpmyadmin&logoColor=blue)
+    ![MySQL](https://img.shields.io/badge/MySQLS-0078d7.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
 
 
 <br>
@@ -91,7 +98,7 @@
 <br>
 
 
-<br>
+
 <div align='left'>
 
 <ul>
@@ -146,6 +153,5 @@
 <br>
 <br>
 
----
 
 <br>
