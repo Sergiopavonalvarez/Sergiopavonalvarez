@@ -1,5 +1,6 @@
 <h1 align="center"><b>Hi , I'm Sergio Pavón Álvarez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></a>
 </p>
@@ -37,7 +38,12 @@
 
 - **Languages**:
 
-  ![JAVA](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  
+  ![JavaScript](https://img.shields.io/badge/PYTHON%20-%23F7DF1E.svg?style=for-the-badge&logo=PYTHON&logoColor=blue)
+
+
+
+
     
 
 
