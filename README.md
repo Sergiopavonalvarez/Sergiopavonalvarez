@@ -79,8 +79,7 @@
 </div>
 
 <br>
-<br>
-<br>
+
 
 
 ## <img src="https://media.giphy.com/media/Q0kd3QPg2ZgJbs6KKx/giphy.gif" width ="25"><b> Contact</b>
@@ -121,8 +120,6 @@
 
 <li>
 <a href="mailto:sergiopavonalvarez@gmail.com" target="_blank">
-
-
  <img alt="Static Badge" src="https://img.shields.io/badge/Sergio_Pav%C3%B3n_%C3%81lvarez-you_like?logo=gmail&label=GMAIL&labelColor=orange&color=orange">
 
 </a>
