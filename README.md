@@ -90,7 +90,7 @@
 
 
 <br>
-<br>
+
 
 
 
@@ -98,7 +98,7 @@
 
 <ul>
 
-<li>
+
 
 <a href="https://www.linkedin.com/in/sergio-pavon-alvarez-297bb282/" target="_blank">
 <img src="https://img.shields.io/badge/Sergio%20Pav%C3%B3n%20%C3%81lvarez-blue?logo=linkedin&logoColor=blue&label=Linkedin&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsergio-pavon-alvarez-297bb282%2F"/>
@@ -107,27 +107,19 @@
     
 
 </a>
-</li>
+
 
 <br>
 
-<li>
 
-
-
-<a href="https://twitter.com/DexerOh" target="_blank">
-<img src="https://img.shields.io/badge/Sergio%20Pav%C3%B3n%20%C3%81lvarez-blue?logo=Twitter&logoColor=blue&label=Twitter&labelColor=white&link=https%3A%2F%2Ftwitter.com%2Fhome"/>
-</a>
-</li>
 
 <br>
 
-<li>
 <a href="mailto:sergiopavonalvarez@gmail.com" target="_blank">
  <img alt="Static Badge" src="https://img.shields.io/badge/Sergio_Pav%C3%B3n_%C3%81lvarez-you_like?logo=gmail&label=GMAIL&labelColor=orange&color=orange">
 
 </a>
-</li>
+
 	
 </ul>
 </div>
